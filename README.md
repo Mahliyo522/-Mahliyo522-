@@ -42,8 +42,7 @@
 ### 📊 GitHub Statistikam:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAHLIYO522&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHLIYO522&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+ 
 </div>
 
 <br>
