@@ -37,7 +37,7 @@ Men foydalanuvchilar uchun qulay va chiroyli interfeyslar yaratishga qiziqaman. 
 ### 📫 Men bilan bog'laning:
 
 <a href="https://t.me/Akmalovna_0718" target="_blank">
-  <img src="" alt="telegram" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6PfZv26KGYnfYWBplYWAtdu3iIyQfpmB1A&s" alt="telegram" />
 </a>
 
 ---
