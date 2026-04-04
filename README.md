@@ -1,47 +1,53 @@
-# -Mahliyo522-
-# Salom, men Mahliyo Akmalovna! 👋 ✨
-
-### 👩‍💻 Frontend Developer | Student
-
-Men foydalanuvchilar uchun qulay va chiroyli interfeyslar yaratishga qiziqaman. Hozirda zamonaviy veb-texnologiyalar ustida o'z mahoratimni oshirib borayotgan izlanuvchan dasturchiman.
+<div align="center">
+  <h1>👋 Salom, men Mahliyo Akmalovna!</h1>
+  <h3>👩‍💻 Frontend Developer | Student</h3>
+  
+  <p>Men foydalanuvchilar uchun qulay, chiroyli va animatsiyali interfeyslar yaratishga ishqibozman. Hozirda zamonaviy veb-texnologiyalar bilan faol shug‘ullanib, o‘z mahoratimni oshirayotgan izlanuvchan dasturchiman.</p>
+</div>
 
 ---
 
 ### 🛠 Men foydalanadigan texnologiyalar:
 
-<div align="left">
-  <!-- HTML5 -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTknuwfUAIa91LbaPj3MIHQwLAh3ecp-CNS9w&s" alt="html5" />
-  <!-- CSS3 -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" />
-  <!-- JavaScript -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" />
-  <!-- SASS / SCSS -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3j1dvKTepQOz0a90M3tBbK2azMdPfvFmkKw&s" alt="scss" />
-  <!-- Bootstrap -->
-  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" />
-  <!-- React -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu_i2KDdUrK6p5TBOiJ8NM0cfXClzyL1utgQ&s" alt="react" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="60" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="60" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" width="60" alt="SASS/SCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" width="60" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="60" alt="React" />
 </div>
 
 ---
 
 ### 🚀 Men haqimda:
 
-- 🔭 **Hozirda:** React orqali murakkabroq komponentlar va loyihalar yaratishni o'rganyapman.
-- 🌱 **Maqsadim:** Full-stack darajasiga ko'tarilish va katta loyihalarda ishtirok etish.
-- ⚡ **Qiziqish:** Animatsiyalar bilan ishlash va SCSS yordamida chiroyli dizaynlar chizish.
+- 🔭 **Hozirda:** React.js orqali murakkab komponentlar, state management va loyihalar ustida ishlayapman.  
+- 🌱 **Maqsadim:** Yaqin kelajakda **Full-Stack** darajasiga chiqish va katta jamoalarda ishtirok etish.  
+- ⚡ **Qiziqishlarim:** CSS/SCSS animatsiyalari, Glassmorphism & Neumorphism dizaynlar, Figma bilan hamkorlikda UI/UX yaratish.
 
 ---
 
-### 📫 Men bilan bog'laning:
+### 📫 Men bilan bog‘laning:
 
-<a href="https://t.me/Akmalovna_0718" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6PfZv26KGYnfYWBplYWAtdu3iIyQfpmB1A&s" alt="telegram" />
-</a>
+<div align="center">
+  <a href="https://t.me/Akmalovna_0718" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <!-- Agar LinkedIn, Instagram yoki boshqa havolalaringiz bo‘lsa, shu yerga qo‘shing -->
+</div>
 
 ---
 
-### 📊 GitHub Stats:
-![Mahliyo's GitHub stats](https://github-readme-stats.vercel.app)
+### 📊 GitHub Statistikam:
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAHLIYO522&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHLIYO522&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHLIYO522&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
