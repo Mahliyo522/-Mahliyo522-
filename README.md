@@ -1,6 +1,11 @@
 <div align="center">
   <h1>👋 Salom, men Mahliyo Akmalovna!</h1>
   <h3>👩‍💻 Frontend Developer | Student</h3>
+
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
+       width="50%" 
+       style="max-width: 50px; margin: 20px 0;" 
+       alt="GitHub Logo" />
   
   <p>Men foydalanuvchilar uchun qulay, chiroyli va animatsiyali interfeyslar yaratishga ishqibozman. Hozirda zamonaviy veb-texnologiyalar bilan faol shug‘ullanib, o‘z mahoratimni oshirayotgan izlanuvchan dasturchiman.</p>
 </div>
