@@ -24,7 +24,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQlNcQUZyQR5rJ4gHKUUuvWw_68oqmXdz89w&s" />
   <img src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" alt="React" />
   <img src="https://static.vecteezy.com/system/resources/thumbnails/048/759/334/small/canva-transparent-icon-free-png.png" alt="React" />
-  <img src="https://apps.microsoft.com/detail/9mv4lscdrflt?hl=en-US&gl=US" alt="React" />
+  
 </div>
 
 ---
